@@ -1,6 +1,7 @@
 # React ToDo App ⚛️
 _A minimalist todo app made while learning React with Bob Ziroll's course on Scrimba_
 
+![Alt text](/screenshot.png "React ToDo App")
 
 
 ### Made with :
